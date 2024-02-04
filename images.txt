@@ -1,0 +1,4 @@
+Step 1 initialize git by command git init
+git add . to put giles in tracking area
+git committ -m "Message" to put it in staging area
+git push -u origin 
